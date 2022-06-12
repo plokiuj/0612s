@@ -5,9 +5,9 @@
     "env": {
         "ID": {
             "description": "VLESS ID",
-            "value": "1309c705-61ff-47d3-bab9-67a377e403db"
+            "value": "4427a62c-8246-4d33-9bab-3b061e93c1a5"
         }
     },
-    "repository": "https://github.com/DanyTPG/heroku-vless",
+    "repository": "https://github.com/plokiuj/0612s",
     "stack": "container"
 }
